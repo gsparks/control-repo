@@ -29,3 +29,5 @@ node default {
   # Example:
   #   class { 'my_class': }
 }
+
+mod 'puppetlabs-cd4pe_jobs', '1.4.0'
