@@ -5,6 +5,8 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/inifile', '3.0.0'
 #mod 'puppetlabs/stdlib',  '6.0.0'
 #mod 'puppetlabs/concat',  '6.0.0'
+mod 'puppetlabs-cd4pe_jobs', '1.4.0'
+mod 'puppetlabs-servicenow_change_requests', '0.1.3'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples

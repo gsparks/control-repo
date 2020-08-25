@@ -30,7 +30,4 @@ node default {
   #   class { 'my_class': }
 }
 
-mod ('puppetlabs-cd4pe_jobs', '1.4.0')
-mod ('puppetlabs-servicenow_change_requests', '0.1.3')
-
 # This is a new comment
